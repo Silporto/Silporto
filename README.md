@@ -25,11 +25,15 @@
    
 - 🌱 I’m currently learning 
 
-     Fundamentos de Data Science para Negócios:
-     Análise de Dados - Power BI,
-     Python para Data Science,
-     Machine Learning,
-     Data Apps Deploy.
+     Fundamentos de Data Science para Negócios:  
+     
+     Análise de Dados - Power BI  
+     
+     Python para Data Science  
+     
+     Machine Learning  
+     
+     Data Apps Deploy
         
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
