@@ -24,7 +24,13 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
-       sil.porto09@gmail.com
+     [email](sil.porto09@gmail.com)
+     [linkedin](https://www.linkedin.com/in/silvana-porto/)
+
+  
+
+
+
 
 <!---
 Silporto/Silporto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
