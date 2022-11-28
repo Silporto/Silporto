@@ -1,13 +1,10 @@
 - 👋 Hi, I’m @Silporto
 - 👀 I’m interested in 
 
-     Análise de Dados
-     
-     Power BI
-     
-     Python
-     
-     Data Science
+     *Análise de Dados
+     *Power BI
+     *Python
+     *Data Science
      
      Machine Learning
      
