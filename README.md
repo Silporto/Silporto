@@ -1,25 +1,25 @@
 - 👋 Hi, I’m @Silporto
 - 👀 I’m interested in 
 
-     Análise de Dados
-     Power BI
-     Python
-     Data Science
-     Machine Learning
-     Data Bricks
-     Big Data
-     Spark
-     Hadoop
-     Google Data Studio
-     SQL
+     Análise de Dados,
+     Power BI,
+     Python,
+     Data Science,
+     Machine Learning,
+     Data Bricks,
+     Big Data,
+     Spark,
+     Hadoop,
+     Google Data Studio,
+     SQL.
    
 - 🌱 I’m currently learning 
 
-     Fundamentos de Data Science para Negócios
-     Análise de Dados - Power BI
-     Python para Data Science
-     Machine Learning
-     Data Apps Deploy
+     Fundamentos de Data Science para Negócios:
+     Análise de Dados - Power BI,
+     Python para Data Science,
+     Machine Learning,
+     Data Apps Deploy,
         
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
