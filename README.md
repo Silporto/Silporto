@@ -19,7 +19,7 @@
      Análise de Dados - Power BI,
      Python para Data Science,
      Machine Learning,
-     Data Apps Deploy,
+     Data Apps Deploy.
         
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
